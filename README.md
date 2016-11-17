@@ -1,2 +1,2 @@
 # Tile-to-geographical-coordinates
-Python script
+Python function to convert tile to geographical coordinates
